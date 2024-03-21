@@ -1,9 +1,6 @@
-Archivo creado
+Esta es una historia para aprender el manejo de Git
 
-
-Modificacion 1
-
-Agrego parráfo
+Se añade un párrafo y se modifica el documento
 
 
 
